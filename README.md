@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Theekshana 👋
 
-<!--
-**TheekshanaHapugoda/TheekshanaHapugoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems undergraduate interested in:
+- Business Analysis
+- Full Stack Development
+- UI/UX Design
+- React-based applications
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- JavaScript
+- HTML & CSS
+- Node.js
+- MySQL
+- Git & GitHub
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### MindHeaven
+A mental health support platform designed for university students.
+
+Key areas involved:
+- Frontend development
+- UI design collaboration
+- GitHub collaboration workflow
+
+## Currently Learning
+- React ecosystem
+- API integration
+- Frontend architecture
+- Business Analysis practices
+
+## Connect With Me
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/TheekshanaHapugoda
+
+
+
